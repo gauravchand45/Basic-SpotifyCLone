@@ -1,0 +1,22 @@
+.logoUtility{
+    filter: invert(1);
+    width: 25px;
+}
+
+.layoutBgColor{
+    border-radius: 10px;
+    background-color: #121212;
+}
+
+.flexBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerStyle{
+    border-radius: 10px;
+    width: 300px;
+    height: 100%;
+    color: #fff;
+}
